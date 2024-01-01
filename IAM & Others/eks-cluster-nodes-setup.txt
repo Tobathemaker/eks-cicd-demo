@@ -116,7 +116,7 @@ git remote add origin https://git-codecommit.us-east-1.amazonaws.com/v1/repos/ek
 # Check git remote 
 git remote -v
 
-# Push changes to remote branch
+# Push changes to remote branch.. this only has to be done the first time,after git push is enough
 git push --set-upstream origin master
 
 
